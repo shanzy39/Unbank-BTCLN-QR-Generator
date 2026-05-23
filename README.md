@@ -34,6 +34,14 @@ tag file export for writing physical NFC stickers.
 
 ---
 
+## Hardware Requirements
+
+- **Flipper Zero** (stock hardware — no add-ons required)
+- Firmware: Latest official Release or Release Candidate
+- Optional: Blank NTAG213 NFC sticker (for the NFC tag export feature)
+
+---
+
 ## Installation
 
 ### Option 1: Flipper Application Catalog (recommended)
